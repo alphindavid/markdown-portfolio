@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* THIS IS MY LIST 
+* GAMES
+  * VALORANT
+  * PESS MOBILE
